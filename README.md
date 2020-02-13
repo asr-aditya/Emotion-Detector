@@ -1,6 +1,9 @@
 # Emotion-Detector
 Emotion detection using harcascade model : OpenCV
 
+![](emotion.gif)
+
+## Run the code:
 First update your environment with with REQUIREMENTS.txt file
 
 Use : ``` pip3 intsall -f REQUIREMENTS.txt ```
